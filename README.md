@@ -84,7 +84,41 @@ This should be the path if you followed the previous step 4 to the letter, other
 ## Next Steps:
 
 1. With Gaps open in your browser click the `Libraries` tab.
-2. 
+2. Click the dropdown button and select your Plex `Movies` library.
+3. Click the Search button to find your Plex Movies. **GIVE GAPS TIME TO COMPLETE THIS SEARCH**
+
+Gaps will display the movies found in the Plex Server Library.
+
+*Note: Rerun this step for each server you want Gaps to find the missing movies in.*
+
+4. Scroll to the bottom of the page and check the `entries` amount if it matches your Plex Movie library amount (It might be very slightly off due to movies that it did not find matches for).
+5. When this search is done continue:
+6. With Gaps open in your browser click the `Missing` tab.
+7. Click the dropdown button and select your Plex `Movies` library.
+8. Click the Search button to find your missing movies. **GIVE GAPS TIME TO COMPLETE THIS SEARCH** (you can check your open terminal if it's still busy).
+
+*note:* **For large libraries, this can take a while to run. The results are stored and only need to be rerun when Plex updates. Missing movies are added as found. Do not navigate away. Gaps will still run, but you'll have to check logs to know when it is complete. It is currently easier to just leave the page open**
+
+
+## EXTRA:
+
+**You change the `Show missing movies` setting in the Settings tab > TMDB, to set if you want `All` or `Released`.**
+
+Further settings can be customised in the `Settings` tab of Gaps.
+
+
+## Debug:
+
+**You might need to rerun Gaps:**
+
+In your terminal where you ran `startOnWindows.bat`, press `Ctrl+C` to stop `Gaps` or close the CLI.
+
+
+## Important:
+
+- View https://github.com/JasonHHouse/gaps for `Gaps` general information and setup.
+- View https://github.com/JasonHHouse/gaps/wiki/Windows for the `Windows Wiki` for `Gaps`.
+- View https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/ for `Finding an authentication token / X-Plex-Token` - a `Plex` article (this didn't help me tbh).
 
 
 

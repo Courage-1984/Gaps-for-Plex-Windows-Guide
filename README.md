@@ -113,6 +113,8 @@ Further settings can be customised in the `Settings` tab of Gaps.
 
 In your terminal where you ran `startOnWindows.bat`, press `Ctrl+C` to stop `Gaps` or close the CLI.
 
+Navigate back to https://github.com/Courage-1984/Gaps-for-Plex-Windows-Guide?tab=readme-ov-file#how-to-run and follow steps.
+
 
 ## Important:
 
@@ -121,7 +123,15 @@ In your terminal where you ran `startOnWindows.bat`, press `Ctrl+C` to stop `Gap
 - View https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/ for `Finding an authentication token / X-Plex-Token` - a `Plex` article (this didn't help me tbh).
 
 
+## SOURCES:
+
+*some sources that helped me with getting Gaps to work:*
+
+- [Gaps on Windows : "Could not save your Plex configuration" #308](https://github.com/JasonHHouse/gaps/issues/308)
+- [Plex connects but won’t add. #289](https://github.com/JasonHHouse/gaps/issues/289)
 
 
+# DONE!
 
+**Enjoy Gaps!**
 
